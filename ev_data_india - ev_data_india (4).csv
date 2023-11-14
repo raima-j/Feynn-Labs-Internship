@@ -1,0 +1,16 @@
+Brand,Car,Style,Plug_Type,Rapid_Charge,Top_Speed,Range,Transmission,VehicleType,StartPrice,MaxPrice,Capacity,BootSpace,BaseModel,Reviews_Carwale,Ratings_Carwale,Reviews_Cardekho,Ratings_Cardekho
+Tata,Tata Nexon EV,Compact SUV,Type 2,No,120,312,Automatic,Electric,1399000,1740000,5,350,XM,4.8,33,4.5,50
+Tata,Tata Tigor EV,Subcompact Sedan,Type 2,No,120,306,Automatic,Electric,1249000,1364000,5,316,XE,3.8,11,4.2,48
+Tata,Tata Nexon EV Max,Compact SUV,Type 2,No,140,437,Automatic,Electric,1774000,1924000,5,350,XZ Plus 3.3 kW,4.8,33,4.4,62
+MG,MG ZS EV,Compact SUV,Type 2,Yes,175,419,Automatic,Electric,2199000,2588000,5,448,Excite,3.8,28,4.3,66
+Hyundai,Hyundai Kona Electric,Compact SUV,Type 2,Yes,155,452,Automatic,Electric,2379000,2398000,5,332,Premium Dual Tone,4.4,59,4.3,54
+Jaguar,Jaguar I-Pace,Premium Midsize Sedan,Type 2,Yes,200,470,Automatic,Electric,10600000,11200000,5,656,S,4.8,4,4.2,29
+Audi,Audi E-Tron GT,Premium Coupe,Type 2,Yes,245,388,Automatic,Electric,18000000,18000000,5,405,Quattro,4.8,10,4.3,32
+BYD,BYD E6,Subcompact MPV,Type 2,No,130,415,Automatic,Electric,2915000,2915000,5,580,STD,3.8,5,4.1,42
+BMW,BMW iX,Premium Fullsize SUV,Type 2,Yes,200,425,Automatic,Electric,11600000,11600000,5,500,XDrive40,4.6,5,4.2,32
+Porsche,Porsche Taycan,Premium Sports Sedan,Type 2,Yes,260,395,Automatic,Electric,15000000,15000000,4,491,RWD,5,8,4.5,14
+Audi,Audi E-Tron,Compact SUV,Type 2,Yes,200,400,Automatic,Electric,10100000,11900000,5,660,e-tron 50,4.7,6,4.2,37
+Volvo,Volvo C40 Recharge,Compact SUV,Type 2,Yes,180,420,Automatic,Electric,6295000,6295000,5,444,C40 Recharge,5,6,4.9,3
+Mahindra,Mahindra XUV400,Compact SUV,Type 2,Yes,150,456,Automatic,Electric,1599000,1939000,5,378,XUV400,3.9,37,4.3,129
+Tata,Tata Tiago EV,Hatchback,Type 2,No,119,306,Automatic,Electric,600000,800000,4,242,Tiago EV,4.5,113,4.5,184
+Kia,Kia EV6,Midsize SUV,Type 2,Yes,192,510,Automatic,Electric,6095000,6595000,5,520,EV6,4.5,15,4.4,78
